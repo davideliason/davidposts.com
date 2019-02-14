@@ -9,6 +9,31 @@ Since I have already been working on utilizing AWS resources, I decided to build
 
 ## Quick resources
 
+Create a new post
 ```
 $ hexo new "My New Post"
+```
+Add an image
+```
+{% asset_img test_image_thumb.jpg Alt text. %}
+```
+Multiple tags:
+```
+tags :
+- tag_1
+- tag_2
+- tag_n
+```
+Making space:
+```
+&nbsp;
+```
+Generate the post:
+```
+hexo generate
+```
+
+Deploy to S3:
+```
+hexo deploy
 ```
