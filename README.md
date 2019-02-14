@@ -1,5 +1,7 @@
 # David Posts
 
+## A blog for David Eliason
+
 ## About
 I had created a blog using Jekyll and served on Github, but I always had challenges around it, and there was a lot of "black boxes" which made any tweaks feel mysterious.
 
