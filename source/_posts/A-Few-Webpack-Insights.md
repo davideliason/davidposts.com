@@ -1,7 +1,7 @@
 ---
 title: A Few Webpack Insights
 date:   2018-06-25 17:03:27 -0700
-tags: webpack
+tags: Webpack
 ---
 
 Webpack has always been a little mysterious for me, which is why I've tended to fall back to Create-React-App. A couple of insights that I received today that I wanted to pass along:
