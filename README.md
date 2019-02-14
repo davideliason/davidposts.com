@@ -30,10 +30,10 @@ Making space:
 ```
 Generate the post:
 ```
-hexo generate
+$ hexo generate
 ```
 
 Deploy to S3:
 ```
-hexo deploy
+$ hexo deploy
 ```
