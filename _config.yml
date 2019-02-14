@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: David Eliason's Blog
+subtitle: Here lie Words and Thoughs of Dave the maker..
+description: Hi, I'm David and I enjoy using alchemy to transform bits and code to interesting things. Please find some of my projects and endeavors here
 keywords:
-author: John Doe
-language:
-timezone:
+author: David Eliason
+language: en
+timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.davethemaker.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
