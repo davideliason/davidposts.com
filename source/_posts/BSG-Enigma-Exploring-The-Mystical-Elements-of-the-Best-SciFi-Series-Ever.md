@@ -18,7 +18,7 @@ One of the tools that I used quite a bit was the table saw, along with the drop 
 
 {% asset_img ADX_table-saw.jpg Table Saw. %}
 
-Another favorite tool of makers is the laser-cutting machine, which was used to precisely cut out thin sheets of wood (pine) for (in this case, the Raspberry Pi). 
+Another favorite tool of makers is the laser-cutting machine, which was used to precisely cut out thin sheets of wood (pine) - in this case, for the Raspberry Pi touchscreen. 
 &nbsp;
 
 {% asset_img ADX-Laser-Cutter.jpg Laser Cutter. %}
@@ -28,7 +28,7 @@ Before actually using the Epilog laser cutter, I used Adobe Illustrator for crea
 
 {% asset_img ADX-Computer-Station.jpg Creating the Image for Cutting. %}
 
-I was interested in combining different wood types (the aesthetic is amazing!), and here's a piece that I started out with:
+I was interested in combining different wood types (the aesthetic is amazing!), and here's a salvaged wood piece that I started out with:
 &nbsp;
 
 {% asset_img Wood-Block-Start-432x491px.jpg Wood Block Start. %}
@@ -58,16 +58,17 @@ At first I tried to use a Table Dremel to cut out the wood, but eventually used 
 
 {% asset_img Laser-Cut-RPi-589x349px.jpg Laser Cut Opening for RPi. %}
 
-I then created the rest of the container protecting the Raspberry Pi, by using a bandsaw to cut acrylic sheets and pieces of wood to the appropriate dimensions. Because the RPi needed access to the GPIO ports, I creaeted an opening in the back:
+I then created the rest of the container protecting the Raspberry Pi, by using a bandsaw to cut acrylic sheets and pieces of wood to the appropriate dimensions. Because the RPi needed access to the GPIO ports, I created an opening in the back:
 &nbsp;
 
 {% asset_img BSG_Enclosure1.jpg Rest of the Enclosure. %}
 
 And then, with the top attached, the full enclosure looked like this:
+&nbsp;
 
 {% asset_img enclosure_front.jpg The Enclosure. %}
 
-Concurrently while building the enclosure, I worked on the smarts. First, I tried to bring in GPS capabilities, but unfortunately fried that micocontroller:
+Concurrently while building the enclosure, I worked on the smarts. First, I tried to bring in GPS capabilities, but unfortunately fried that micocontroller (also called "letting out the smoke", something you do not want to do):
 &nbsp;
 
 {% asset_img GPS-To-Arduino.jpg The GPS module attached to Arduino Uno. %}
@@ -76,6 +77,8 @@ I then pivoted and focused on using an ultrasonic sensor to sense when someone g
 &nbsp;
 
 {% asset_img McDs-Coffee-Coding.jpg  Using a sensor and programmable LEDS. %}
+
+Voila! It was all complete, time to show it off!
 
 I parked my car out in the lot and then hiked to the SOAK event. I was pretty thankful that my art installation was lightweight, as I was schlepping everything on my own shoulders, for about a mile, including all my camping gear for the weekend:
 &nbsp;
@@ -88,11 +91,13 @@ Here's my campsite, and you can see BSG-Enigma here too:
 {% asset_img Closer-View-Campsite.jpg  My Campsite. %}
 
 
-Here's BSG-Enigma, placed at the SOAK festival. The Raspberry Pi served an Express server built on node.js, rendering a webpage describing the mysical aspects of BSG.
+Here's BSG-Enigma, placed at the SOAK festival. The Raspberry Pi had an Express server built on node.js, rendering an HTML webpage describing the mysical aspects of BSG.
 &nbsp;
 
 {% asset_img BSG-Enigma-Placed-432x768px.jpg  BSG-Enigma placed. %}
 
-In conclusion, I was proud of successfully building this piece and overcoming personal insecurities around displaying it to the public. I had to resist my perfectionistic tendencies and critic which told me that it wasn't beautiful enough. I learned that much of creating art is being willing to roll with the punches, learn and try new things, and that oftentimes art serves as a way of connecting to other people and initiate good conversations.
+In conclusion, I was proud of successfully building this piece and overcoming personal insecurities around displaying it to the public. I had to resist my perfectionistic tendencies and inner critic, which told me that it wasn't beautiful enough.
+
+ I learned that much of creating art is being willing to roll with the punches, learn and try new things, and that oftentimes art serves as a way of connecting to other people and initiate good conversations.
 
 And to me, that is priceless!
