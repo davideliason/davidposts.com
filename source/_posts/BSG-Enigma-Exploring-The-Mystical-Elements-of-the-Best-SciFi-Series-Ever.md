@@ -52,3 +52,23 @@ And another wood-gluing section:
 &nbsp;
 
 {% asset_img Mixed-Wood-Glued.jpg Mixed Wood Glued Together %}
+
+At first I tried to use a Table Dremel to cut out the wood, but eventually used the laser cutter, which did a much nicer cut for creating a space in the wood for the Raspberry Pi 8" touchscreen interface:
+&nbsp;
+
+{% asset_img Laser-Cut-RPi-589x349px.jpg Laser Cut Opening for RPi. %}
+
+I then created the rest of the container protecting the Raspberry Pi, by using a bandsaw to cut acrylic sheets and pieces of wood to the appropriate dimensions. Because the RPi needed access to the GPIO ports, I creaeted an opening in the back:
+&nbsp;
+
+{% asset_img BSG_Enclosure1.jpg Rest of the Enclosure. %}
+
+And then, with the top attached, the full enclosure looked like this:
+
+{% asset_img enclosure_front.jpg The Enclosure. %}
+
+Concurrently while building the enclosure, I worked on the smarts. First, I tried to bring in GPS capabilities, but unfortunately fried that micocontroller:
+&nbsp;
+
+{% asset_img GPS-To-Arduino.jpg The GPS module attached to Arduino Uno. %}
+
