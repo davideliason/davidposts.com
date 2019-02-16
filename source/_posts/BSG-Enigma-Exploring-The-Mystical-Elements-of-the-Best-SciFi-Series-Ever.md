@@ -31,4 +31,4 @@ Before actually using the Epilog laser cutter, I used Adobe Illustrator for crea
 I was interested in combining different wood types (the aesthetic is amazing!), and here's a piece that I started out with:
 &nbsp;
 
-{% asset_img Wood-Block-Start.jpg Wood Block Start. %}
+{% asset_img Wood-Block-Start-432x491px.jpg Wood Block Start. %}
