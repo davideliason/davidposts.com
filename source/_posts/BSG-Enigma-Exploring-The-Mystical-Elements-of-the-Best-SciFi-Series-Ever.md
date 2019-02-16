@@ -32,3 +32,8 @@ I was interested in combining different wood types (the aesthetic is amazing!), 
 &nbsp;
 
 {% asset_img Wood-Block-Start-432x491px.jpg Wood Block Start. %}
+
+Because the different parts of wood were of different thickness, I used a planer for leveling the pieces to the same width:
+&nbsp;
+
+{% asset_img Wood-Leveling.jpg Leveling the Wood Pieces %}
