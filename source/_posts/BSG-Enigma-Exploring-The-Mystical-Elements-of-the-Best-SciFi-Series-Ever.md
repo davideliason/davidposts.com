@@ -37,3 +37,18 @@ Because the different parts of wood were of different thickness, I used a planer
 &nbsp;
 
 {% asset_img Wood-Leveling.jpg Leveling the Wood Pieces %}
+
+Back to the Table saw for cutting the pieces to be the desired widths
+&nbsp;
+
+{% asset_img Wood-Sanding.jpg Making the Wood Pieces the Desired Width %}
+
+With the pieces of similar widths, I then used wood glue to bring them together
+&nbsp;
+
+{% asset_img Wood-Glued.jpg Wood Glued Together %}
+
+And another wood-gluing section:
+&nbsp;
+
+{% asset_img Mixed-Wood-Glued.jpg Mixed Wood Glued Together %}
