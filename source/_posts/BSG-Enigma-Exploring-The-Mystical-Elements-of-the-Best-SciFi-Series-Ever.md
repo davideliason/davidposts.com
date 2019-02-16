@@ -72,3 +72,27 @@ Concurrently while building the enclosure, I worked on the smarts. First, I trie
 
 {% asset_img GPS-To-Arduino.jpg The GPS module attached to Arduino Uno. %}
 
+I then pivoted and focused on using an ultrasonic sensor to sense when someone got close to the art installtion, changing the color display of the LED strip (programmable LEDS).
+&nbsp;
+
+{% asset_img McDs-Coffee-Coding.jpg  Using a sensor and programmable LEDS. %}
+
+I parked my car out in the lot and then hiked to the SOAK event. I was pretty thankful that my art installation was lightweight, as I was schlepping everything on my own shoulders, for about a mile, including all my camping gear for the weekend:
+&nbsp;
+
+{% asset_img SOAK-Driveway.jpg  Hiking into the SOAK festival. %}
+
+Here's my campsite, and you can see BSG-Enigma here too:
+&nbsp;
+
+{% asset_img Closer-View-Campsite.jpg  My Campsite. %}
+
+
+Here's BSG-Enigma, placed at the SOAK festival. The Raspberry Pi served an Express server built on node.js, rendering a webpage describing the mysical aspects of BSG.
+&nbsp;
+
+{% asset_img BSG-Enigma-Placed-432x768px.jpg  BSG-Enigma placed. %}
+
+In conclusion, I was proud of successfully building this piece and overcoming personal insecurities around displaying it to the public. I had to resist my perfectionistic tendencies and critic which told me that it wasn't beautiful enough. I learned that much of creating art is being willing to roll with the punches, learn and try new things, and that oftentimes art serves as a way of connecting to other people and initiate good conversations.
+
+And to me, that is priceless!
