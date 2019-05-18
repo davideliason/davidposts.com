@@ -11,3 +11,5 @@ First of all, Seattle is a pretty new experience for me. Even though I lived in 
 
 Additionally, the program is going to be very interesting and is already pushing me to learn Python to get ready for machine learning, as well as blow off the dust off my cloud computing knowledge and skills. But it's all really interesting things and I'm excited to be learning all this, so I'm excited to be pushed in all of these areas :)
 
+A new adventure!
+
